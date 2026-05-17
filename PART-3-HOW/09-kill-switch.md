@@ -1,4 +1,4 @@
-# 第九章：紧急停止开关 (Kill Switch)
+# 第九章：终止开关(Kill Switch)
 
 > "信任，但要核实。"
 > — 罗纳德·里根 (Ronald Reagan)

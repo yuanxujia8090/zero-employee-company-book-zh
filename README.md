@@ -57,8 +57,8 @@
 | # | 章节 | 描述 |
 |:---:|---------|-------------|
 | 0 | [下注](PART-1-WHY/00-introduction.md) | 引言：AI 时代的创业新范式 |
-| 1 | [没人说真话](PART-1-WHY/01-nobodys-being-honest.md) | AI 炒作与现实之间的巨大鸿沟 |
-| 2 | [粉碎织布机](PART-1-WHY/02-smash-the-loom.md) | 自动化恐慌的简短历史 |
+| 1 | [没人说的事实](PART-1-WHY/01-nobodys-being-honest.md) | AI 炒作与现实之间的巨大鸿沟 |
+| 2 | [砸碎织布机](PART-1-WHY/02-smash-the-loom.md) | 自动化恐慌的简短历史 |
 | 3 | [一人独角兽](PART-1-WHY/03-one-person-one-billion.md) | "一人公司估值十亿" 理论 |
 
 ### 第二部分：是什么 (What)
@@ -73,7 +73,7 @@
 
 | # | 章节 | 描述 |
 |:---:|---------|-------------|
-| 7 | [打开终端](PART-3-HOW/07-open-your-terminal.md) | 构建你的第一家 AI 驱动公司 |
+| 7 | [打开你的终端](PART-3-HOW/07-open-your-terminal.md) | 构建你的第一家 AI 驱动公司 |
 | 8 | [谁做什么](PART-3-HOW/08-who-does-what.md) | 设计你的 AI 组织架构图 |
 | 9 | [终止开关](PART-3-HOW/09-kill-switch.md) | 治理与监督机制 |
 
@@ -81,9 +81,9 @@
 
 | # | 章节 | 描述 |
 |:---:|---------|-------------|
-| 10 | [同时运行十个](PART-4-WHAT-IF/10-run-ten-at-once.md) | 扩展到多家公司运营 |
+| 10 | [同时经营十家公司](PART-4-WHAT-IF/10-run-ten-at-once.md) | 扩展到多家公司运营 |
 | 11 | [你不是可选项](PART-4-WHAT-IF/11-you-are-not-optional.md) | 人类在其中的角色 |
-| 12 | [48 小时](PART-4-WHAT-IF/12-48-hours.md) | 你的前两天的行动指南 |
+| 12 | [前 48 小时行动指南](PART-4-WHAT-IF/12-48-hours.md) | 你的前两天的行动指南 |
 | 13 | [不要雇佣任何人](PART-4-WHAT-IF/13-afterword.md) | 后记：保持零员工状态 |
 
 ## 🤝 贡献指南

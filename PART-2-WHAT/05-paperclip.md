@@ -3,7 +3,7 @@
 > "我们塑造工具，然后工具塑造我们。"
 > — 约翰·卡尔金 (John Culkin)
 
-现有数千种 AI 工具、数百个 Agent 框架、数十个工作流平台。**Paperclip 都不是**。
+现有数千种 AI 工具、数百个 Agent 框架、数十个工作流平台。**[Paperclip](https://github.com/paperclipai/paperclip) 都不是**。
 
 **Paperclip 让你能够：**
 - **雇佣 AI Agent**，分配职位头衔。

@@ -48,7 +48,7 @@
 <!-- 随着评论到来将在此添加 -->
 
 > *你的推荐语可以出现在这里。*
-想提交推荐？[打开 Issue](../../issues/new?title=Book+blurb&body=Your+name%2C+title%2C+and+a+1-2+sentence+quote.) 或发送邮件至 anthony@175g.com。
+想提交推荐？[打开 Issue](https://github.com/yuanxujia8090/zero-employee-company-book-zh/issues)。
 
 ## 📚 目录
 
@@ -58,14 +58,14 @@
 |:---:|---------|-------------|
 | 0 | [下注](PART-1-WHY/00-introduction.md) | 引言：AI 时代的创业新范式 |
 | 1 | [没人说真话](PART-1-WHY/01-nobodys-being-honest.md) | AI 炒作与现实之间的巨大鸿沟 |
-| 2 | [粉碎织机](PART-1-WHY/02-smash-the-loom.md) | 自动化恐慌的简短历史 |
+| 2 | [粉碎织布机](PART-1-WHY/02-smash-the-loom.md) | 自动化恐慌的简短历史 |
 | 3 | [一人独角兽](PART-1-WHY/03-one-person-one-billion.md) | "一人公司估值十亿" 理论 |
 
 ### 第二部分：是什么 (What)
 
 | # | 章节 | 描述 |
 |:---:|---------|-------------|
-| 4 | [不是聊天机器人](PART-2-WHAT/04-not-a-chatbot.md) | AI Agent 到底是什么？ |
+| 4 | [不仅是聊天机器人](PART-2-WHAT/04-not-a-chatbot.md) | AI Agent 到底是什么？ |
 | 5 | [Paperclip](PART-2-WHAT/05-paperclip.md) | 让这一切成为可能的平台 |
 | 6 | [算笔账](PART-2-WHAT/06-do-the-math.md) | 零员工的经济学账本 |
 
@@ -75,7 +75,7 @@
 |:---:|---------|-------------|
 | 7 | [打开终端](PART-3-HOW/07-open-your-terminal.md) | 构建你的第一家 AI 驱动公司 |
 | 8 | [谁做什么](PART-3-HOW/08-who-does-what.md) | 设计你的 AI 组织架构图 |
-| 9 | [紧急停止开关](PART-3-HOW/09-kill-switch.md) | 治理与监督机制 |
+| 9 | [终止开关](PART-3-HOW/09-kill-switch.md) | 治理与监督机制 |
 
 ### 第四部分：如果...会怎样 (What If)
 
@@ -92,10 +92,9 @@
 
 | 操作 | 方式 |
 |--------|-----|
-| 编辑与修复 | [提交 Pull Request](../../pulls) |
-| 想法与反馈 | [打开 Issue](../../issues) |
-| 推荐语 | [打开 Issue](../../issues/new?title=Book+blurb&body=Your+name%2C+title%2C+and+a+1-2+sentence+quote.) 或发送邮件 |
-| 其他事宜 | anthony@175g.com |
+| 编辑与修复 | [提交 Pull Request](https://github.com/yuanxujia8090/zero-employee-company-book-zh/pulls) |
+| 想法与反馈 | [打开 Issue](https://github.com/yuanxujia8090/zero-employee-company-book-zh/issues) |
+| 推荐语 | [打开 Issue](https://github.com/yuanxujia8090/zero-employee-company-book-zh/issues) 。
 
 ## 🔗 链接
 

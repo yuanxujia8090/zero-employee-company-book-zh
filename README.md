@@ -4,7 +4,7 @@
 > 这是 [zero-employee-company-book](https://github.com/AnthonyDavidAdams/zero-employee-company-book) 的非官方中文翻译，仅供个人学习与交流使用。
 
 
-⚠️ 版权声明 / Disclaimer
+# ⚠️ 版权声明 / Disclaimer
 
 原作者 / Author: Anthony David Adams
 
@@ -15,6 +15,9 @@
 用途 / Purpose：仅供学习交流，非商业用途
 
 本仓库内容为对 zero-employee-company-book 公开发布材料的中文翻译演绎，版权归 Anthony David Adams 所有。若相关权利人认为本仓库内容存在侵权或不当之处，请通过 Issue 联系，将立即删除全部相关内容。
+
+---
+
 
 <div align="center">
 

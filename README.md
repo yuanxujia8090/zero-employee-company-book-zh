@@ -106,19 +106,8 @@
 
 你可以自由分享和改编本材料（仅限非商业用途），但需注明出处。
 
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AnthonyDavidAdams/Lookout/main/assets/earthpilot-logo.png" alt="Earth Pilot" width="64">
-
-由 [Earth Pilot](https://earthpilot.org) 提供 —— "地球飞船" 的任务支持。
-
-</div>
-
----
 **中文版说明**:
-- 本翻译由 AI 生成， YuanXuJia 中文校准，旨在帮助中文读者理解原文核心思想。
+- 本翻译由 AI 协助， [yuanxujia8090](https://github.com/yuanxujia8090) 中文校准，旨在帮助中文读者理解原文核心思想。
 - 术语对照：
   - **Paperclip**: Paperclip (保留原名，指代 AI 编排平台)
   - **AI Agent**: AI 智能体 / AI 代理

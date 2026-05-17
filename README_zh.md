@@ -1,0 +1,108 @@
+<div align="center">
+
+# Headcount Zero (零员工公司)
+
+### 如何用 Paperclip 构建一家由 AI 驱动的公司
+
+**作者：Anthony David Adams**
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+*如果你永远不需要雇佣任何人，会怎样？*
+
+</div>
+
+---
+## 📖 关于本书
+
+本书向创始人展示如何利用 **AI Agent** 作为整个团队来构建和运营公司。
+- **零员工**：无需雇佣任何人。
+- **零薪资支出**：没有传统的人力成本。
+- **零 HR 管理**：无需处理招聘、社保等事务。
+
+只需一位创始人，一张由 AI Agent 组成的组织架构图，以及一个名为 **[Paperclip](https://paperclip.ing)** 的开源编排平台。
+
+本书是开源的。你可以在此阅读、分享，或在正式出版时获取 [Amazon 上的格式化版本](#)。
+
+## 💬 推荐语
+
+<!-- 随着评论到来将在此添加 -->
+
+> *你的推荐语可以出现在这里。*
+想提交推荐？[打开 Issue](../../issues/new?title=Book+blurb&body=Your+name%2C+title%2C+and+a+1-2+sentence+quote.) 或发送邮件至 anthony@175g.com。
+
+## 📚 目录
+
+### 第一部分：为什么 (Why)
+
+| # | 章节 | 描述 |
+|:---:|---------|-------------|
+| 0 | [下注](PART-1-WHY/00-introduction.md) | 引言：AI 时代的创业新范式 |
+| 1 | [没人说真话](PART-1-WHY/01-nobodys-being-honest.md) | AI 炒作与现实之间的巨大鸿沟 |
+| 2 | [粉碎织机](PART-1-WHY/02-smash-the-loom.md) | 自动化恐慌的简短历史 |
+| 3 | [一人独角兽](PART-1-WHY/03-one-person-one-billion.md) | "一人公司估值十亿" 理论 |
+
+### 第二部分：是什么 (What)
+
+| # | 章节 | 描述 |
+|:---:|---------|-------------|
+| 4 | [不是聊天机器人](PART-2-WHAT/04-not-a-chatbot.md) | AI Agent 到底是什么？ |
+| 5 | [Paperclip](PART-2-WHAT/05-paperclip.md) | 让这一切成为可能的平台 |
+| 6 | [算笔账](PART-2-WHAT/06-do-the-math.md) | 零员工的经济学账本 |
+
+### 第三部分：怎么做 (How)
+
+| # | 章节 | 描述 |
+|:---:|---------|-------------|
+| 7 | [打开终端](PART-3-HOW/07-open-your-terminal.md) | 构建你的第一家 AI 驱动公司 |
+| 8 | [谁做什么](PART-3-HOW/08-who-does-what.md) | 设计你的 AI 组织架构图 |
+| 9 | [紧急停止开关](PART-3-HOW/09-kill-switch.md) | 治理与监督机制 |
+
+### 第四部分：如果...会怎样 (What If)
+
+| # | 章节 | 描述 |
+|:---:|---------|-------------|
+| 10 | [同时运行十个](PART-4-WHAT-IF/10-run-ten-at-once.md) | 扩展到多家公司运营 |
+| 11 | [你不是可选项](PART-4-WHAT-IF/11-you-are-not-optional.md) | 人类在其中的角色 |
+| 12 | [48 小时](PART-4-WHAT-IF/12-48-hours.md) | 你的前两天的行动指南 |
+| 13 | [不要雇佣任何人](PART-4-WHAT-IF/13-afterword.md) | 后记：保持零员工状态 |
+
+## 🤝 贡献指南
+
+发现错别字？有建议？想提交推荐语？
+
+| 操作 | 方式 |
+|--------|-----|
+| 编辑与修复 | [提交 Pull Request](../../pulls) |
+| 想法与反馈 | [打开 Issue](../../issues) |
+| 推荐语 | [打开 Issue](../../issues/new?title=Book+blurb&body=Your+name%2C+title%2C+and+a+1-2+sentence+quote.) 或发送邮件 |
+| 其他事宜 | anthony@175g.com |
+
+## 🔗 链接
+
+[Paperclip](https://paperclip.ing) \| [Singularity Playground (沙盒体验)](https://playground.earthpilot.co/singularity)
+
+## 📄 许可协议
+
+本书采用 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
+
+你可以自由分享和改编本材料（仅限非商业用途），但需注明出处。
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnthonyDavidAdams/Lookout/main/assets/earthpilot-logo.png" alt="Earth Pilot" width="64">
+
+由 [Earth Pilot](https://earthpilot.org) 提供 —— "地球飞船" 的任务支持。
+
+</div>
+
+---
+**中文版说明**:
+- 本翻译由 Hermes Agent 生成，旨在帮助中文读者理解原文核心思想。
+- 术语对照：
+  - **Paperclip**: Paperclip (保留原名，指代 AI 编排平台)
+  - **AI Agent**: AI 智能体 / AI 代理
+  - **Orchestrate**: 编排 / 调度
+  - **Kill Switch**: 紧急停止开关 / 熔断机制
